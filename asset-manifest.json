@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a55a0f79.chunk.css",
+    "main.js": "/static/js/main.31487d88.chunk.js",
+    "main.js.map": "/static/js/main.31487d88.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3517570e.chunk.js": "/static/js/2.3517570e.chunk.js",
+    "static/js/2.3517570e.chunk.js.map": "/static/js/2.3517570e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.baa843f27b6c7d3f806cdcf5a42c7c40.js": "/precache-manifest.baa843f27b6c7d3f806cdcf5a42c7c40.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a55a0f79.chunk.css.map": "/static/css/main.a55a0f79.chunk.css.map",
+    "static/media/alcor-bg.jpg": "/static/media/alcor-bg.9d6e36b2.jpg",
+    "static/media/alcor.svg": "/static/media/alcor.82db559f.svg",
+    "static/media/dobrota-bg.jpg": "/static/media/dobrota-bg.269941e4.jpg",
+    "static/media/dobrota.svg": "/static/media/dobrota.4693ed34.svg",
+    "static/media/github.e49a7fc6.svg": "/static/media/github.e49a7fc6.svg",
+    "static/media/aboutInfo.css": "/static/media/photo.09d6ecb5.jpg",
+    "static/media/telegram.d7b2e838.svg": "/static/media/telegram.d7b2e838.svg",
+    "static/media/vk.021d8859.svg": "/static/media/vk.021d8859.svg"
+  }
+}
